@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  大实验1 类 对象 构造函数 析构函数.cpp
+d:\documents\visual studio 2015\projects\大实验1 类 对象 构造函数 析构函数\大实验1 类 对象 构造函数 析构函数\大实验1 类 对象 构造函数 析构函数.cpp(47): warning C4018: “<”: 有符号/无符号不匹配
+d:\documents\visual studio 2015\projects\大实验1 类 对象 构造函数 析构函数\大实验1 类 对象 构造函数 析构函数\大实验1 类 对象 构造函数 析构函数.cpp(59): warning C4018: “<”: 有符号/无符号不匹配
+  大实验1 类 对象 构造函数 析构函数.vcxproj -> D:\Documents\Visual Studio 2015\Projects\大实验1 类 对象 构造函数 析构函数\Debug\大实验1 类 对象 构造函数 析构函数.exe
+  大实验1 类 对象 构造函数 析构函数.vcxproj -> D:\Documents\Visual Studio 2015\Projects\大实验1 类 对象 构造函数 析构函数\Debug\大实验1 类 对象 构造函数 析构函数.pdb (Full PDB)

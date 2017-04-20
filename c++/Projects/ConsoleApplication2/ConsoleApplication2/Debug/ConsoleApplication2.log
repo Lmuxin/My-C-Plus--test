@@ -1,0 +1,4 @@
+﻿  源.c
+d:\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\源.c(5): warning C4013: “system”未定义；假设外部返回 int
+  ConsoleApplication2.vcxproj -> D:\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> D:\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)
